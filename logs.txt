@@ -1,0 +1,14 @@
+[{"name":"x-ms-gateway-slice","value":"estsfd","domain":"login.microsoftonline.com","path":"/","expires":-1,"size":24,"httpOnly":true,"secure":true,"session":true,"sameSite":"None","sameParty":false,"sourceScheme":"Secure","sourcePort":443}]
+[{"name":"x-ms-gateway-slice","value":"estsfd","domain":"login.microsoftonline.com","path":"/","expires":-1,"size":24,"httpOnly":true,"secure":true,"session":true,"sameSite":"None","sameParty":false,"sourceScheme":"Secure","sourcePort":443}]
+[{"name":"x-ms-gateway-slice","value":"estsfd","domain":"login.microsoftonline.com","path":"/","expires":-1,"size":24,"httpOnly":true,"secure":true,"session":true,"sameSite":"None","sameParty":false,"sourceScheme":"Secure","sourcePort":443}]
+[object Object]
+[{"name":"x-ms-gateway-slice","value":"estsfd","domain":"login.microsoftonline.com","path":"/","expires":-1,"size":24,"httpOnly":true,"secure":true,"session":true,"sameSite":"None","sameParty":false,"sourceScheme":"Secure","sourcePort":443}]
+{"email":"hj","password":"v"}
+[{"name":"x-ms-gateway-slice","value":"estsfd","domain":"login.microsoftonline.com","path":"/","expires":-1,"size":24,"httpOnly":true,"secure":true,"session":true,"sameSite":"None","sameParty":false,"sourceScheme":"Secure","sourcePort":443}]
+{"email":"hhh","password":"ghgh"}
+[{"name":"x-ms-gateway-slice","value":"estsfd","domain":"login.microsoftonline.com","path":"/","expires":-1,"size":24,"httpOnly":true,"secure":true,"session":true,"sameSite":"None","sameParty":false,"sourceScheme":"Secure","sourcePort":443}]
+{"email":"test","password":"test"}
+[{"name":"x-ms-gateway-slice","value":"estsfd","domain":"login.microsoftonline.com","path":"/","expires":-1,"size":24,"httpOnly":true,"secure":true,"session":true,"sameSite":"None","sameParty":false,"sourceScheme":"Secure","sourcePort":443}]
+{"email":"bn","password":"hb"}
+[{"name":"x-ms-gateway-slice","value":"estsfd","domain":"login.microsoftonline.com","path":"/","expires":-1,"size":24,"httpOnly":true,"secure":true,"session":true,"sameSite":"None","sameParty":false,"sourceScheme":"Secure","sourcePort":443}]
+{"email":"ghc","password":"ghc"}
